@@ -1,4 +1,0 @@
-pip install -r ${BUILD_DIR}/docs/requirements.txt
-
-# Build Sphinx documentation
-(cd ${BUILD_DIR}/docs && make apidoc html)

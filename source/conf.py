@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'DogDetection'
+project = 'Dog-Detection project'
 copyright = '2023, Michal Kubaščík'
 author = 'Michal Kubaščík'
 release = '0'

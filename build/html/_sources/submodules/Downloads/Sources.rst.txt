@@ -2,12 +2,12 @@
 Sources
 ================
 
-Detector configurator source code: |DetectorConf.py|
+Detector configurator source code: |Detector|
 
-Generator configurator source code: |GeneratorConf.py|
+Generator configurator source code: |Generator|
 
-.. |DetectorConf.py| replace::
-    :download:`DetectorConf.py <Files/Sources/DetectorConf.py>`
+.. |Detector| replace::
+    :download:`Detector project <https://github.com/kubascikmichal/dd-detector>`
 
-.. |GeneratorConf.py| replace::
-    :download:`GeneratorConf.py <Files/Sources/GeneratorConf.py>`
+.. |Generator| replace::
+    :download:`Generator project <https://github.com/kubascikmichal/dd-generator>`

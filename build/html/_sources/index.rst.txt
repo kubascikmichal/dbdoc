@@ -16,9 +16,7 @@ Welcome to DogDetection's documentation!
    submodules/Contact
 
 
-Indices and tables
+Others
 ==================
-
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
+* |Contact|
