@@ -6,6 +6,7 @@
 Welcome to DogDetection's documentation!
 ========================================
 
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
