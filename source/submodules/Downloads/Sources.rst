@@ -2,9 +2,9 @@
 Sources
 ================
 
-Detector configurator source code: |Detector|
+Detector source code: |Detector|
 
-Generator configurator source code: |Generator|
+Generator source code: |Generator|
 
 .. |Detector| replace::
     :download:`Detector project <https://github.com/kubascikmichal/dd-detector>`
