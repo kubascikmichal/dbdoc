@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DogDetection's documentation!
+Welcome to Dog-detection project documentation!
 ========================================
-
+Documentation is under construction!
 
 .. toctree::
    :maxdepth: 2
