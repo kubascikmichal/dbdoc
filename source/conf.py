@@ -9,7 +9,7 @@
 project = 'Dog-Detection project'
 copyright = '2023, Michal Kubaščík'
 author = 'Michal Kubaščík'
-release = '0'
+release = '1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
